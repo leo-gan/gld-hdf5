@@ -1,5 +1,7 @@
 # mojo-hdf5
 
+[Serialization](https://leo-gan.github.io/serialization/) is the hub for the theory, the history, and the benchmarks.
+
 A from-scratch HDF5, NetCDF, and ADIOS2 BP5 library for [Mojo](https://www.modular.com/mojo).
 The runtime and the code generator are written in Mojo. They do not wrap, link,
 or vendor libhdf5, libnetcdf, libadios2, or any other C, C++, or Rust
